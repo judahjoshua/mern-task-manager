@@ -71,8 +71,8 @@ VITE_API_URL=
 
 ## Screenshots
 
-(Screenshots will be added here)
+
 
 ## Live Demo
 
-(Live link will be added here)
+(https://mern-task-manager-judah11.vercel.app/login)
