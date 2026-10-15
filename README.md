@@ -70,9 +70,12 @@ VITE_API_URL=
 | DELETE | /api/tasks/:id | Delete a task |
 
 ## Screenshots
-
-(Screenshots will be added here)
+![Register](screenshots/register.png)
+![Login](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Task Form and Task List](screenshots/task.png)
 
 ## Live Demo
+Live app: https://mern-task-manager-woad-seven.vercel.app
 
-(Live link will be added here)
+Backend API: https://mern-task-manager-6hdv.onrender.com
